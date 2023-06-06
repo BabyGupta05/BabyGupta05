@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 
-  📖 I’m currently learning Node.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, and JavaScript!<br>📧 Feel free to reach me at :codecode355@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/1mQ2pn5XI0iQSjx_v-ALxBzredbfFx-u2/view?usp=drive_link)<br>🏷️ Check out my  <a href='https://babygupta05.github.io/'>Portfolio</a> 
+  📖 I’m learing mern fullstack development <br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, and JavaScript!<br>📧 Feel free to reach me at :codecode355@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/1mQ2pn5XI0iQSjx_v-ALxBzredbfFx-u2/view?usp=drive_link)<br>🏷️ Check out my  <a href='https://babygupta05.github.io/'>Portfolio</a> 
 
 
   <br>
