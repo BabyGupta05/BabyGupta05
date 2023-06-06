@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/guptababy510" target="blank"><img src="https://img.shields.io/twitter/follow/guptababy510?logo=twitter&style=for-the-badge" alt="guptababy510" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://babygupta05.github.io/](https://babygupta05.github.io/)
+- Potfololio [https://babygupta05.github.io/](https://babygupta05.github.io/)
 
 - 📫 How to reach me **codecode355@gmail.com**
 
