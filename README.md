@@ -1,7 +1,7 @@
 <p align="center"><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"  alt="Coding" width="100%"height="500"></p>
 
 <h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/Bharat-Shaw" target="_blank" rel="noopener noreferrer">Bharat Shaw</a>.
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/BabyGupta05" target="_blank" rel="noopener noreferrer">Baby Gupta</a>.
 </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
@@ -43,7 +43,7 @@
 
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=BabyGupta05&theme=neon&border_radius=2.7&show_icons=true" alt="baby gupta" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BabyGupta05&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Bharat-Shaw" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BabyGupta05&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Baby gupta" />
   
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyGupta05&theme=neon&border_radius=2.7" alt="baby gupta" />
   
@@ -64,7 +64,7 @@
     </p>
     <h2>❤ Views and Followers :</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/BabyGupta05/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=Bharat-Shaw" >
+        <img src="https://komarev.com/ghpvc/?username=BabyGupta05" >
     </a>
     <a href="https://github.com/Bharat-Shaw?tab=followers">
         <img src="https://img.shields.io/github/followers/BabyGupta05?label=Followers&style=social" alt="GitHub Badge">
