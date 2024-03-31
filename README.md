@@ -64,9 +64,10 @@
     </p>
     <h2>❤ Views and Followers :</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BabyGupta05/github-profile-views-counter">
-    <img src="![](https://komarev.com/ghpvc/?username=BabyGupta05)" alt="GitHub Profile Views Counter">
+  <a href="https://github.com/BabyGupta05/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=BabyGupta05" alt="GitHub Profile Views Counter">
 </a>
+
     <a href="https://github.com/BabyGupta05?tab=followers">
         <img src="https://img.shields.io/github/followers/BabyGupta05?label=Followers&style=social" alt="GitHub Badge">
     </a>
