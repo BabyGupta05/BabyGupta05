@@ -62,13 +62,6 @@
                 alt="https://github.com/BabyGupta05" width="40px"/>
         </a>
     </p>
-    <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/BabyGupta05">
-    <img src="https://hits.dwyl.com/BabyGupta05/BabyGupta05.svg" alt="GitHub Profile Views Counter">
-  </a>
-    <a href="https://github.com/BabyGupta05?tab=followers">
-        <img src="https://img.shields.io/github/followers/BabyGupta05?label=Followers&style=social" alt="GitHub Badge">
-    </a>
     <hr />
     <h2><a href="https://babygupta05.github.io/portfolio/">🌍 | Portfolio </a></h2>
 
